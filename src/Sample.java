@@ -12,6 +12,13 @@ public class Sample {
 	private void m2() {
 		System.out.println("m2");
 	}
+	private void mumbai() {
+		System.out.println("Mumbai");
+	}
+	private void Kolkatta() {
+		System.out.println("Kolkatta");
+	}
+	
 	public static void main(String[] args) {
 		Sample s = new Sample();
 		s.kerala();
